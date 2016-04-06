@@ -1,1 +1,9 @@
+---
+layout: post
+title: Github & Blog
+---
+
+
+
+
 http://www.jianshu.com/p/882f155897f0  一个关于在利用Github搭建Blog的方法
