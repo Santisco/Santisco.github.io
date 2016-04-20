@@ -6,7 +6,7 @@ title: ublockOrigin for Chrome
 
 
 
-<a href="https://github.com/gorhill/uBlock#chromium">JetBrains官方学生链接</a>
+<a href="https://github.com/gorhill/uBlock#chromium">Github链接</a>
 
 
 
